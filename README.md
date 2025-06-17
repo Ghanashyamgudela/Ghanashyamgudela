@@ -1,6 +1,6 @@
 <div style="text-align: center;">
     <a href="https://ibb.co/ynNbJJv">
-        <img src="https://i.ibb.co/GvdbjjY/Black-Simple-Elegant-Personal-Linked-In-Banner.png" alt="Black-Simple-Elegant-Personal-Linked-In-Banner" style="border: 5px solid #000; margin-center: 50px;" />
+        <img src="https://i.ibb.co/ym3YXmmV/Brown-and-White-Simple-Linked-In-Background-Photo.png" alt="Brown-and-White-Simple-Linked-In-Background-Photo" border="0" style="border: 5px solid #000; margin-center: 50px;"/> 
     </a>
 </div>
 
