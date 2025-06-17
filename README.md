@@ -8,8 +8,6 @@
 
 <h1 align="center">Hi 👋, I'm Ghana Shyam Gudela</h1>
 <h3 align="center">@ Python Full Stack Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://www.gifcen.com/wp-content/uploads/2022/01/wallpaper-gif-9.gif">
-
 
 <p align="left"> <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Ghanashyamgudela" /> </p>
 
