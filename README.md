@@ -1,6 +1,6 @@
 <div style="text-align: center;">
     <a href="https://ibb.co/ynNbJJv">
-        <img src="src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif"" alt="Brown-and-White-Simple-Linked-In-Background-Photo" width="100%" border="0" style="border: 5px solid #000; margin-center: 50px;"/> 
+        <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif"alt="Brown-and-White-Simple-Linked-In-Background-Photo" width="100%" border="0" style="border: 5px solid #000; margin-center: 50px;"/> 
     </a>
 </div>
 
