@@ -1,6 +1,6 @@
 <div style="text-align: center;">
     <a href="https://ibb.co/ynNbJJv">
-        <img src="https://i.ibb.co/ym3YXmmV/Brown-and-White-Simple-Linked-In-Background-Photo.png" alt="Brown-and-White-Simple-Linked-In-Background-Photo"  width="100% border="0"></a>/> 
+        <img src="https://i.ibb.co/ym3YXmmV/Brown-and-White-Simple-Linked-In-Background-Photo.png" alt="Brown-and-White-Simple-Linked-In-Background-Photo"  width="100% border="0"> 
     </a>
 </div>
 
@@ -9,7 +9,7 @@
 <h1 align="center">Hi 👋, I'm Ghana Shyam Gudela</h1>
 <h3 align="center">@ Python Full Stack Developer</h3>
 
-<p align="right"> <img src="https://i.pinimg.com/originals/b2/32/55/b2325557a903fdf56b50da4656da9221.gif" alt="Ghanashyamgudela" /> </p>
+<p align="right"> <img src="https://i.pinimg.com/originals/b2/32/55/b2325557a903fdf56b50da4656da9221.gif" alt="Ghanashyamgudela"/> </p>
 
 - 🔭 I’m currently working on *Railway Track Condition Monitoring System for Preventive Maintenance*
 
