@@ -25,6 +25,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="mailto:ghana19183@gmail.com"><img align="center" src="https://camo.githubusercontent.com/e526bbc82bac127…f676f732f676d61696c2f676d61696c2d69636f6e2e737667" alt="" height="30" width="40"/></a>
 <a href="https://www.linkedin.com/in/ghana-shyam-gudela-151a23295" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/indhanam-durgaprasad-a5381424b" height="30" width="40" /></a>
 <a href="https://instagram.com/mr_mad_boy_dp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_mad_boy_dp" height="30" width="40" /></a>
 </p>
