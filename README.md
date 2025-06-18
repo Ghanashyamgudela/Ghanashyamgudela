@@ -6,8 +6,8 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Indanam DurgaPrasad</h1>
-<h3 align="center">Python Full Stack Developer</h3>
+<h1 align="center">Hi 👋, I'm Ghana Shyam Gudela</h1>
+<h3 align="center">@ Python Full Stack Developer</h3>
 <img align="right" alt="Coding" width="30%" height="290px" src="https://camo.githubusercontent.com/a615ccee1fede08a3322b260a6c9b09fa7c9d76bb410469650b284ebebcaef57/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966"/>
 
 
@@ -19,13 +19,13 @@
 
 - 💬 Ask me about *Python Full Stack*
 
-- 📫 How to reach me *durgaprasadindhanam@gmail.com*
+- 📫 How to reach me *ghana19183@gmail.com*
 
 - 📄 Know about my experiences [https://durgaprasadresume.tiiny.site](https://durgaprasadresume.tiiny.site)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/indhanam-durgaprasad-a5381424b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/indhanam-durgaprasad-a5381424b" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ghana-shyam-gudela-151a23295" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/indhanam-durgaprasad-a5381424b" height="30" width="40" /></a>
 <a href="https://instagram.com/mr_mad_boy_dp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_mad_boy_dp" height="30" width="40" /></a>
 </p>
 
