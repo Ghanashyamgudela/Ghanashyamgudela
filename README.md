@@ -9,7 +9,7 @@
 <h1 align="center">Hi 👋, I'm Ghana Shyam Gudela</h1>
 <h3 align="center">@ Python Full Stack Developer</h3>
 
-<p align="right"> <img src="https://i.pinimg.com/originals/b7/93/ae/b793aebd01b9271b999d03dfaf76be21.gif" alt="Ghanashyamgudela" width="30%" height="400px"/> </p>
+<p align="right"> <img src="https://i.pinimg.com/originals/b7/93/ae/b793aebd01b9271b999d03dfaf76be21.gif" alt="Ghanashyamgudela" width="20%" height="200px"/> </p>
 
 - 🔭 I’m currently working on *Railway Track Condition Monitoring System for Preventive Maintenance*
 
