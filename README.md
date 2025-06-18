@@ -8,7 +8,7 @@
 
 <h1 align="center">Hi 👋, I'm Indanam DurgaPrasad</h1>
 <h3 align="center">Python Full Stack Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://technicalguftgu.in/wp-content/uploads/2024/07/ssyryrtyjj.gif"/>
+<img align="right" alt="Coding" width="400" src="	https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif"/>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=durgaprasad53&label=Profile%20views&color=0e75b6&style=flat" alt="durgaprasad53" /> </p>
