@@ -8,7 +8,7 @@
 
 <h1 align="center">Hi 👋, I'm Indanam DurgaPrasad</h1>
 <h3 align="center">Python Full Stack Developer</h3>
-<img align="right" alt="Coding" width="30%" height="250px" src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif"/>
+<img align="right" alt="Coding" width="30%" height="250px" src="https://camo.githubusercontent.com/a615ccee1fede08a3322b260a6c9b09fa7c9d76bb410469650b284ebebcaef57/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966"/>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=durgaprasad53&label=Profile%20views&color=0e75b6&style=flat" alt="durgaprasad53" /> </p>
