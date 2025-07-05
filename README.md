@@ -20,7 +20,8 @@
 
 - 📫 How to reach me *ghana19183@gmail.com*
 
-- 📄 Know about my experiences [https://amber-larine-32.tiiny.site]((https://amber-larine-32.tiiny.site))
+- 📄 Know about my experiences [https://durgaprasadresume.tiiny.site](https://durgaprasadresume.tiiny.site)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
